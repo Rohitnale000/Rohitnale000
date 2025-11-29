@@ -51,17 +51,24 @@
 
 
 ---
-
 ## ✨ Interesting Facts
 <div align="center">
-  <a href="https://app.daily.dev/RohitNale">
-    <img src="https://api.daily.dev/devcards/67285cb8bd91490dac8c2997f9a1f644.png?r=8qn" width="350"/>
-  </a>
-  <br/><br/>
-  <a href="https://github.com/Rohitnale000/Rohitnale000">
-    <img src="https://i.ibb.co/6WNz8nH/qrifyQr.png" width="150" alt="QR Code"/>  
-  </a>
-  <p><b>Scan to explore my profile 📱</b></p>
+
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" style="border-radius:12px;"/>
+
+<p style="margin-top:15px; font-size:16px; color:#fff;">
+🚀 I break things so I can rebuild them better.<br/>
+🧠 I learn something new every day.<br/>
+🎧 Code + Music = My Superpower.<br/>
+🌍 Travelling gives me ideas for new projects.
+</p>
+
+<img src="https://img.shields.io/badge/Coffee%20Level-High-brown?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Traveller-Yes-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Learning-Always-green?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Coding%20Mood-🔥%20Hyper-red?style=for-the-badge" />
+
 </div>
 
 ---
