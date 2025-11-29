@@ -1,49 +1,128 @@
-<div>
-<h2>Hi there, I am Rohit. A Full Stack Engineer by work, and MCA Graduate 👋 </h2>
-- 🔭 I’m currently working on ...SvelteJS and NodeJS
-- 🌱 I’m currently learning ...PostgreSQL
-- 👯 I’m looking to collaborate on ...SvelteJS
-- 💬 Ask me about ...Anything
-- 😄 Pronouns: ...He/Him
-- ⚡ Fun fact: ...Love Travelling
+<!-- INTRO SECTION -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+I'm+Rohit+Nale;Full+Stack+Engineer;NodeJS+%7C+ExpressJS+%7C+PostgreSQL;Passionate+about+Web+Development" />
 </div>
-<h2>Languages and Tools 🛠️</h2>
-<div>
- <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="60" height="60"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="ExpressJS" alt="CSS" width="60 height="60"/>&nbsp;
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original-wordmark.svg" title="SvelteJS" alt="CSS" width="60 height="60"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="CSS" width="60 height="60"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original-wordmark.svg" title="Sequelize" alt="CSS" width="60 height="60"/>&nbsp;     
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg"  title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;  
-<img src="https://user-images.githubusercontent.com/78038673/231764518-df2deaaa-20a8-487b-b7b4-59ce8a7a27ba.png"  title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp; 
-<img src="https://diegomariano.com/wp-content/uploads/2021/06/react-logo.png"  title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp; 
-<img src="https://sass-lang.com/assets/img/logos/logo.svg"  title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp; 
+
+<br/>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rohitnale000&label=Profile%20Views&color=blue&style=flat" alt="views" />
+</p>
+
+---
+
+## 👋 About Me
+- 🔭 Working on **NodeJS & ExpressJS**
+- 🌱 Learning **SvelteKit, AWS, Docker**
+- 👯 Looking to collaborate on **Nodejs and Backend projects**
+- 💬 Ask me about **JavaScript, NodeJS, APIs, Svelte and SQL**
+- 😄 Pronouns: **He/Him**
+- ⚡ Fun fact: **I love travelling 🌍**
+
+---
+
+## 🛠️ Languages & Tools
+<div align="center">
+
+<!-- Backend -->
+<img src="https://skillicons.dev/icons?i=nodejs,express" height="65" />
+<img src="https://skillicons.dev/icons?i=javascript,typescript" height="65" />
+
+<!-- Database / ORM -->
+<img src="https://skillicons.dev/icons?i=postgres,prisma" height="65" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="65" />
+
+<!-- DevOps -->
+<img src="https://skillicons.dev/icons?i=docker" height="65" />
+
+<!-- Frontend -->
+<img src="https://skillicons.dev/icons?i=svelte,html,css,javascript,typescript,tailwind,bootstrap" height="65" />
+
+<!-- Others -->
+<img src="https://skillicons.dev/icons?i=graphql" height="65" />
+<!-- Add these along with your other icons -->
+
+<img src="https://skillicons.dev/icons?i=mysql" height="65" />
+<img src="https://skillicons.dev/icons?i=git" height="65" />
+<img src="https://skillicons.dev/icons?i=github" height="65" />
+
 </div>
-<h2>Intersting Facts</h2>
-<div>
-<a href="https://app.daily.dev/RohitNale"><img src="https://api.daily.dev/devcards/67285cb8bd91490dac8c2997f9a1f644.png?r=8qn" width="400" alt="Rohit Nale's Dev Card"/></a>
-<a href="https://github.com/Rohitnale000/Rohitnale000"><img src="https://i.ibb.co/6WNz8nH/qrifyQr.png" alt="qrifyQr" border="0">Scan QR </a>
+
+
+---
+
+## ✨ Interesting Facts
+<div align="center">
+  <a href="https://app.daily.dev/RohitNale">
+    <img src="https://api.daily.dev/devcards/67285cb8bd91490dac8c2997f9a1f644.png?r=8qn" width="350"/>
+  </a>
+  <br/><br/>
+  <a href="https://github.com/Rohitnale000/Rohitnale000">
+    <img src="https://i.ibb.co/6WNz8nH/qrifyQr.png" width="150" alt="QR Code"/>  
+  </a>
+  <p><b>Scan to explore my profile 📱</b></p>
 </div>
-<h1>🚀 Some of my projects 🚀 <h1>
- <h3>LMS with NodeJS Sequalize and SvelteJS </h3>
- https://github.com/Rohitnale000/Leave_Management_System-v1/tree/master
- <h3>UMS with NodeJS,Sequalize and SvelteJS </h3>
- https://github.com/Rohitnale000/User-Management-with-Sequalize-ORM.git
- <h3>TODO application in SvelteJS </h3>
- https://github.com/Rohitnale000/todo-application.git
- <h1>🚀front-end projects🚀<h1>
- <h2>Please click on the link to view the project</h2>
-   <h3>Photo Gallery</h3>
+
+---
+
+# 🚀 Backend Projects
+### 🔹 **LMS – NodeJS, Sequelize, SvelteJS**
+🔗 https://github.com/Rohitnale000/Leave_Management_System-v1
+
+### 🔹 **UMS – NodeJS, Sequelize, SvelteJS**
+🔗 https://github.com/Rohitnale000/User-Management-with-Sequalize-ORM
+
+### 🔹 **TODO App – SvelteJS**
+🔗 https://github.com/Rohitnale000/todo-application
+
+---
+
+# 🚀 Frontend Projects
+### 🔗 Photo Gallery  
 https://rohitnale000.github.io/Image_Gallery/
- <h3>Veggy online store </h3>
+
+### 🔗 Veggy Online Store  
 https://rohitnale000.github.io/Veggy-web-app/
-<h3>Ticketing Tool</h3>
+
+### 🔗 Ticketing Tool  
 https://rohitnale000.github.io/Ticketing_tool/
-<h3>Login Registration </h3>
+
+### 🔗 Login / Registration  
 https://rohitnale000.github.io/login-registration-task/
-<h2>My Stats 🔥</h2>
-http://github-readme-streak-stats.herokuapp.com?user=Rohitnale000&theme=dark&mode=weekly
+
+---
+
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rohitnale000&theme=onedark&no-frame=true&row=1&column=6" />
+</div>
+
+---
+
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rohitnale000&theme=dark&mode=weekly" width="500"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohitnale000&layout=compact&theme=dark" width="400"/>
+</div>
+
+---
+
+## 🌱 Contribution Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rohitnale000&theme=react-dark&hide_border=true" />
+</div>
+
+---
+
+## ⚡ Connect With Me
+<div align="center">
+  <a href="https://linkedin.com/in/rohitnale" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:rohitnale000@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="50"/>
+  </a>
+</div>
+
