@@ -2,7 +2,7 @@
 <!-- <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+I'm+Rohit+Nale;Full+Stack+Engineer;NodeJS+%7C+ExpressJS+%7C+PostgreSQL;Passionate+about+Web+Development" />
 </div> -->
-<div align="center">
+<div align="center" style="background-color:#0d1117; padding:20px; border-radius:10px;">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3800&color=00BFFF&center=true&vCenter=true&width=750&lines=Hi+I'm+Rohit+Nale;Full+Stack+Engineer;NodeJS+%7C+ExpressJS+%7C+PostgreSQL;JavaScript+%7C+TypeScript;Prisma+%7C+Sequelize+ORM;MongoDB+%7C+Mongoose;Svelte+%7C+SvelteKit;Docker+%7C+GraphQL;Passionate+about+Web+Development" />
 </div>
 
