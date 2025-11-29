@@ -1,7 +1,11 @@
 <!-- INTRO SECTION -->
-<div align="center">
+<!-- <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+I'm+Rohit+Nale;Full+Stack+Engineer;NodeJS+%7C+ExpressJS+%7C+PostgreSQL;Passionate+about+Web+Development" />
+</div> -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3800&color=00BFFF&center=true&vCenter=true&width=750&lines=Hi+I'm+Rohit+Nale;Full+Stack+Engineer;NodeJS+%7C+ExpressJS+%7C+PostgreSQL;JavaScript+%7C+TypeScript;Prisma+%7C+Sequelize+ORM;MongoDB+%7C+Mongoose;Svelte+%7C+SvelteKit;Docker+%7C+GraphQL;Passionate+about+Web+Development" />
 </div>
+
 
 <br/>
 
@@ -30,7 +34,10 @@
 
 <!-- Database / ORM -->
 <img src="https://skillicons.dev/icons?i=postgres,prisma" height="65" />
+<img src="https://skillicons.dev/icons?i=mysql" height="65" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="65" />
+<img src="https://skillicons.dev/icons?i=mongodb" height="65" />
+
 
 <!-- DevOps -->
 <img src="https://skillicons.dev/icons?i=docker" height="65" />
@@ -42,7 +49,6 @@
 <img src="https://skillicons.dev/icons?i=graphql" height="65" />
 <!-- Add these along with your other icons -->
 
-<img src="https://skillicons.dev/icons?i=mysql" height="65" />
 <img src="https://skillicons.dev/icons?i=git" height="65" />
 <img src="https://skillicons.dev/icons?i=github" height="65" />
 
@@ -117,7 +123,7 @@ https://rohitnale000.github.io/login-registration-task/
 
 ## ⚡ Connect With Me
 <div align="center">
-  <a href="https://linkedin.com/in/rohitnale" target="_blank">
+  <a href="linkedin.com/in/rohit-nale-820762149" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50"/>
   </a>
   &nbsp;&nbsp;
