@@ -125,7 +125,7 @@ https://rohitnale000.github.io/login-registration-task/
 
 ## ⚡ Connect With Me
 <div align="center">
-  <a href="linkedin.com/in/rohit-nale-820762149" target="_blank">
+  <a href="www.linkedin.com/in/rohit-nale-820762149" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50"/>
   </a>
   &nbsp;&nbsp;
