@@ -125,12 +125,12 @@ https://rohitnale000.github.io/login-registration-task/
 
 ## ⚡ Connect With Me
 <div align="center">
-  <a href="www.linkedin.com/in/rohit-nale-820762149" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50"/>
+  <a href="https://www.linkedin.com/in/rohit-nale-820762149" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:rohitnale000@gmail.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="50"/>
+  <a href="mailto:rohitnale000@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="50" alt="Email"/>
   </a>
 </div>
 
