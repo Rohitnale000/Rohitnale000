@@ -17,6 +17,7 @@
 - 💬 Ask me about **JavaScript, NodeJS, APIs, Svelte and SQL**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I love travelling 🌍**
+- - 🌐 Portfolio: **https://rohitnale000.github.io/Portfolio/**
 
 ---
 
