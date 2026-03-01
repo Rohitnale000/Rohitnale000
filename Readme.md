@@ -123,7 +123,6 @@ https://rohitnale000.github.io/login-registration-task/
 </div>
 
 ---
-
 ## ⚡ Connect With Me
 <div align="center">
   <a href="https://www.linkedin.com/in/rohit-nale-820762149" target="_blank">
@@ -132,6 +131,10 @@ https://rohitnale000.github.io/login-registration-task/
   &nbsp;&nbsp;
   <a href="mailto:rohitnale000@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="50" alt="Email"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://rohitnale000.github.io/Portfolio/">
+    <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="50" alt="Portfolio"/>
   </a>
 </div>
 
