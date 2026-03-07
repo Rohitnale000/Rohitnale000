@@ -133,7 +133,7 @@ https://rohitnale000.github.io/login-registration-task/
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="50" alt="Email"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://rohitnale000.github.io/Portfolio/">
+  <a href="https://portfolio-nextjs-gamma-ten.vercel.app/">
     <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="50" alt="Portfolio"/>
   </a>
 </div>
